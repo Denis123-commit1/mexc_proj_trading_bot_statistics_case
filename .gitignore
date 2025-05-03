@@ -1,0 +1,18 @@
+# Игнорировать SQLite-базу
+bd.sqlite
+
+# Игнорировать venv
+.venv*/
+
+# Игнорироваь cache
+__pycache__/
+*.pyc
+*.log
+*.sql
+
+# Игнорировать папку work
+work/
+mexc_bot/
+
+# Игнорировать deb файлы
+*.deb*.deb
