@@ -1,0 +1,12 @@
+Django
+filters-django
+django-filter
+django-cors-headers
+aiogram
+asgiref
+aiohttp
+aiohttp-socks
+djangorestframework
+schedule
+matplotlib
+pandas
